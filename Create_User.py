@@ -121,6 +121,8 @@ def main():
                         'status': True,
                         'loginNumber': 0,
                         'mac_id': '',
+                        "zoom_browser": 100,
+                    
 
                         'use_click_and_drag_instead_of_scroll': True,
                         'commom': 0.8,
